@@ -1,22 +1,18 @@
 # Hi, I'm Azra Ahmad Algifari.
 
-**Web developer. Curious by default. Learning by building.**
+I'm an Informatics graduate interested in web development. Most of the public projects here were built for university coursework. I'm also working with a team on two client projects, Fotomotif and Raffseal, which are still in development.
 
-I build web applications and enjoy exploring the technology behind them — from interfaces and everyday workflows to the systems that connect everything.
+## Client projects
 
-## Selected work
+- **Fotomotif** — In development. Source code is private.
+- **Raffseal** — In development. Source code is private.
 
-| Project | What it explores | Technologies |
+## University projects
+
+| Project | Description | Technologies |
 |---|---|---|
-| [Kedai Djanggo](https://github.com/azra-ahmad/kedai-djanggo) | QR-based food ordering, digital payments, and shop operations | Laravel, Blade, Alpine.js, Tailwind CSS, Midtrans |
-| [CrowdCast](https://github.com/azra-ahmad/CrowdCast) | A shared viewing experience with video streaming and real-time chat | Python, Flask, TCP, UDP |
-| [Katalog Film](https://github.com/azra-ahmad/katalog-film) | A movie catalog with an admin interface | PHP, CodeIgniter |
-| [ZooQuiz](https://github.com/azra-ahmad/ZooQuiz) | An animal-themed quiz interface with playful motion | Next.js, React, TypeScript, Tailwind CSS |
-
-## Beyond the browser
-
-[Libo](https://github.com/azra-ahmad/libo) is a library management project built with Java Swing, Spring Boot, and MySQL — a different space to explore application structure and data workflows.
-
-## Currently
-
-Building my personal portfolio and refining how I present the things I make.
+| [Kedai Djanggo](https://github.com/azra-ahmad/kedai-djanggo) | A food ordering system built for a real small business as part of university coursework, with QR-based ordering and digital payments. | Laravel, Blade, Alpine.js, Tailwind CSS, Midtrans |
+| [CrowdCast](https://github.com/azra-ahmad/CrowdCast) | A watch-together web application built for a networking course, using TCP uploads, UDP video streaming, and chat. | Python, Flask, TCP, UDP |
+| [Katalog Film](https://github.com/azra-ahmad/katalog-film) | A movie catalog with an admin interface, built for a multimedia practicum. | PHP, CodeIgniter |
+| [ZooQuiz](https://github.com/azra-ahmad/ZooQuiz) | An animal-themed quiz web project with an animated interface. | Next.js, React, TypeScript, Tailwind CSS |
+| [Libo](https://github.com/azra-ahmad/libo) | A desktop library management application. | Java Swing, Spring Boot, MySQL |
